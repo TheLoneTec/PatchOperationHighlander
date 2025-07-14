@@ -14,7 +14,7 @@
   <ItemGroup>
     <Reference Include="System.Xml" />
     <PackageReference Include="Krafs.Rimworld.Ref">
-      <Version>1.5.*</Version>
+      <Version>1.6.4518</Version>
       <ExcludeAssets>runtime</ExcludeAssets>
     </PackageReference>
   </ItemGroup>
